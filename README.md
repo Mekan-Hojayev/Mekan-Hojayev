@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://filin.mail.ru/pic?email=mekan.097%40mail.ru&width=180&height=180&name=Mekan+Hojayev&version=4&build=7&_=1698129854618.8242"  />
 
 ###
 
