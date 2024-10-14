@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/353748/web3.svg" height="30" alt="web3 logo"  />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/web-3-icon.svg" height="30" alt="web3 logo"  />
 </div>
 
 
