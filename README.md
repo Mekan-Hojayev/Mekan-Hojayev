@@ -12,6 +12,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mekan-hojayev&theme=radical)](https://git.io/streak-stats)
 
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mekan-hojayev&layout=compact&theme=radical)](https://github.com/mekan-hojayev/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mekan-hojayev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ###
 
 <div align="left">
