@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mekan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://filin.mail.ru/pic?email=mekan.097%40mail.ru&width=180&height=180&name=Mekan+Hojayev&version=4&build=7&_=1698129854618.8242"  />
 
 ###
