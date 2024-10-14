@@ -8,6 +8,8 @@
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mekan-hojayev&show_icons=true&theme=radical)](https://github.com/Mekan-Hojayev/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=radical)](https://github.com/mekan-hojayev/github-readme-stats)
+
 ###
 
 <div align="left">
