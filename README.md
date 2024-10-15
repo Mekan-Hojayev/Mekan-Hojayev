@@ -10,7 +10,7 @@
 </details>
 
 <details>
-<summary>Click to view My Top Languages</summary>
+<summary>🔵 Click to view Top Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
