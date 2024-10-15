@@ -3,21 +3,21 @@
 ###
 
 <details>
-<summary>Click to view GitHub Stats</summary>
+<summary>Click to view My GitHub Stats</summary>
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mekan-hojayev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
 <details>
-<summary>Click to view Top Languages</summary>
+<summary>Click to view My Top Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
 <details>
-<summary>Click to view Trophies</summary>
+<summary>Click to view My Trophies</summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mekan-hojayev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
