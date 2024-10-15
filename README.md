@@ -1,4 +1,4 @@
-<h3 align="left">Hi! My name is Mekan. I am a Data Science developer in Skolkovo (Moscow). The company is focused on legaltech tasks for law firms. In June 2024, I completed my master's degree at the Skolkovo Institute of Science and Technology in Moscow, Russian Federation.I am from Turkmenistan.</h3>
+<h3 align="left">Hi! My name is Mekan. I am a Data Science developer in Skolkovo (Moscow). The company is focused on legaltech tasks for law firms. In June 2024, I completed my master's degree at the Skolkovo Institute of Science and Technology in Moscow, Russian Federation. I am from Turkmenistan.</h3>
 
 ###
 
