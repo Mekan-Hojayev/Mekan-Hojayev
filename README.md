@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
+  <img src="https://github.com/valohai/ml-logos/raw/refs/heads/master/keras.svg" height="30" alt="keras logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
@@ -38,6 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/web-3-icon.svg" height="30" alt="web3 logo"  />
+
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/cuda.svg" height="30" alt="cuda logo"  />
+
+
+  
 </div>
 
 
