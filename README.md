@@ -52,7 +52,7 @@
 ###
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekan-hojayev-92b711298)
-[![Instagram](https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg)](https://www.instagram.com/mekanhojayevofficial)
+[![Instagram](https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/instagram/instagram.svg)](https://www.instagram.com/mekanhojayevofficial)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekanhojayev97@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hojayevofficial)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mekanhojayev97)
