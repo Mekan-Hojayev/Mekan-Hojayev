@@ -54,11 +54,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekan-hojayev-92b711298)
 
 <a href="https://www.linkedin.com/in/mekan-hojayev-92b711298">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" width="12" alt="LinkedIn logo">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" width="30" alt="LinkedIn logo">
 </a>
 
 <a href="https://www.instagram.com/mekanhojayevofficial">
-    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/instagram/instagram.svg" width="12" alt="Instagram Logo">
+    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/instagram/instagram.svg" width="30" alt="Instagram Logo">
 </a>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekanhojayev97@gmail.com)
