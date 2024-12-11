@@ -6,8 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/Mekan-Hojayev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=radical)](https://github.com/Mekan-Hojayev/github-readme-stats)
-
 
 <details>
 <summary>Click to view My Trophies</summary>
