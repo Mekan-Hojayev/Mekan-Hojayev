@@ -4,8 +4,7 @@
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mekan-hojayev&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mekan-hojayev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mekan-hojayev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/Mekan-Hojayev/github-readme-stats)
 
