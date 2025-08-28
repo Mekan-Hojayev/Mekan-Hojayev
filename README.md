@@ -9,13 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/Mekan-Hojayev/github-readme-stats)
 
 
-<details>
-<summary>Click to view My Trophies</summary>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mekan-hojayev)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
-
-
 ###
 
 <div align="left">
