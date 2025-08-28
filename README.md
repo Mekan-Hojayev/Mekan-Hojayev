@@ -12,8 +12,7 @@
 <details>
 <summary>Click to view My Trophies</summary>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mekan-hojayev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=mekan-hojayev)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
 
