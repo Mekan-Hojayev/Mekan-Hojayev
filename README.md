@@ -9,32 +9,32 @@
 
 ---
 
-## 🔖 About Me
+## About Me
 
-> 🏢 **Data Science Developer** at a LegalTech company in **Skolkovo, Moscow**
+> **Data Science Developer** at a LegalTech company in **Skolkovo, Moscow**
 >
-> 🎓 **Master's Graduate** — Skolkovo Institute of Science and Technology (Skoltech) 🇷🇺 *(June 2024)*
+> **Master's Graduate** — Skolkovo Institute of Science and Technology (Skoltech) 🇷🇺 *(June 2024)*
 >
-> 🌍 From **Turkmenistan** 🇹🇲
+> From **Turkmenistan** 🇹🇲
 >
 > Live in **Moscow**, **Russia** 🇷🇺
 > 
-> 🔬 Focused on **LegalTech** tasks for law firms — NLP, document analysis, AI pipelines
+> Focused on **LegalTech** tasks for law firms — NLP, document analysis, AI pipelines
 >
-> 🌐 Portfolio & CV: [mekan-hojayev.github.io](https://mekan-hojayev.github.io)
+> Portfolio & CV: [mekan-hojayev.github.io](https://mekan-hojayev.github.io)
 
 ---
 
-## 🚀 Currently
+## Currently
 
-- 🔭 Working on **AI-powered LegalTech solutions** for law firms
-- 🌱 Exploring **LLMs, RAG pipelines, and NLP for legal documents**
-- 💡 Interested in **Web3, Blockchain & Smart Contracts**
-- 📫 Reach me at: **mekanhojayev97@gmail.com**
+- Working on **AI-powered LegalTech solutions** for law firms
+- Exploring **LLMs, RAG pipelines, and NLP for legal documents**
+- Interested in **Web3, Blockchain & Smart Contracts**
+- Reach me at: **mekanhojayev97@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
