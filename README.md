@@ -1,57 +1,106 @@
-<h3 align="left">Hi! My name is Mekan. I am a Data Science developer. I work in Skolkovo (Moscow). The company is focused on legaltech tasks for law firms. In June 2024, I completed my master's degree at the Skolkovo Institute of Science and Technology (Skoltech) in Moscow, Russian Federation. I am from Turkmenistan. Here is my <a href="https://mekan-hojayev.github.io">CV</a> </h3>
+<div align="center">
 
-###
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mekan+%F0%9F%91%8B;Data+Science+Developer;ML+%7C+NLP+%7C+LegalTech+Enthusiast;Skoltech+Master's+Graduate+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-<!-- [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mekan-hojayev&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<img src="https://media1.tenor.com/m/uYMmIboDBWwAAAAd/polikotvsapogax.gif" width="180"/>
 
-<!-- [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mekan-hojayev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/Mekan-Hojayev/github-readme-stats)
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://github.com/valohai/ml-logos/raw/refs/heads/master/keras.svg" height="30" alt="keras logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/web-3-icon.svg" height="30" alt="web3 logo"  />
-
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/cuda.svg" height="30" alt="cuda logo"  />
-
-
-  
 </div>
 
+---
 
-###
+## 🔖 About Me
 
-<img src="https://media1.tenor.com/m/uYMmIboDBWwAAAAd/polikotvsapogax.gif" width="200" alt="Contact"> 
+> 🏢 **Data Science Developer** at a LegalTech company in **Skolkovo, Moscow**
+>
+> 🎓 **Master's Graduate** — Skolkovo Institute of Science and Technology (Skoltech), Moscow 🇷🇺 *(June 2024)*
+>
+> 🌍 Originally from **Turkmenistan** 🇹🇲
+>
+> 🔬 Focused on **LegalTech** tasks for law firms — NLP, document analysis, AI pipelines
+>
+> 🌐 Portfolio & CV: [mekan-hojayev.github.io](https://mekan-hojayev.github.io)
 
-## Contact Information
+---
 
-<a href="https://www.linkedin.com/in/mekan-hojayev-92b711298" style="margin-right: 80px;"> <img src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" width="60" alt="LinkedIn logo"> </a> <a href="https://www.instagram.com/mekanhojayevofficial" style="margin-right: 80px;"> <img src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" width="60" alt="Instagram Logo"> </a> <a href="mailto:mekanhojayev97@gmail.com" style="margin-right: 80px;"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="60" alt="Gmail Logo"> </a> <a href="https://x.com/hojayevofficial" style="margin-right: 80px;"> <img src="https://github.com/Mekan-Hojayev/html-display/blob/main/icons8-x-logo%20(1).svg" width="60" alt="X Logo"> </a> <a href="https://t.me/mekanhojayev97" style="margin-right: 80px;"> <img src="https://www.svgrepo.com/show/349527/telegram.svg" width="60" alt="Telegram Logo"> </a> <a href="https://www.kaggle.com/mekanhojayev" style="margin-right: 80px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="60" alt="Kaggle Logo"> </a>
+## 🚀 Currently
 
+- 🔭 Working on **AI-powered LegalTech solutions** for law firms
+- 🌱 Exploring **LLMs, RAG pipelines, and NLP for legal documents**
+- 💡 Interested in **Web3, Blockchain & Smart Contracts**
+- 📫 Reach me at: **mekanhojayev97@gmail.com**
 
-###
+---
 
-<br clear="both">
+## 🛠️ Tech Stack
 
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**ML / DL Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+**Tools & Platforms**
+
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mekan-hojayev&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mekan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mekan-hojayev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mekan-hojayev&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekan-hojayev-92b711298)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mekanhojayevofficial)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekanhojayev97@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hojayevofficial)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mekanhojayev97)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mekanhojayev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://mekan-hojayev.github.io)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mekan-hojayev&color=6E40C9&style=for-the-badge)
+
+*⭐ Feel free to star repositories you find interesting!*
+
+</div>
