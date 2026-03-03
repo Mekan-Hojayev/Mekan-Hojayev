@@ -79,8 +79,8 @@
 
 <br/>
 
-<!-- Top Languages — using cache_seconds=86400 for better reliability -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top Languages — using fast fork instance with low cache (60s) -->
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=8)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 </div>
 
