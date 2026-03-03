@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mekan+%F0%9F%91%8B;Data+Science+Developer;ML+%7C+NLP+%7C+LegalTech+Enthusiast;Skoltech+Master's+Graduate+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Mekan+%F0%9F%91%8B;Data+Science+Developer;ML+%7C+NLP+%7C+LegalTech+Enthusiast;Skoltech+Master's+Graduate+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <img src="https://media1.tenor.com/m/uYMmIboDBWwAAAAd/polikotvsapogax.gif" width="180"/>
 
@@ -13,7 +13,7 @@
 
 > 🏢 **Data Science Developer** at a LegalTech company in **Skolkovo, Moscow**
 >
-> 🎓 **Master's Graduate** — Skolkovo Institute of Science and Technology (Skoltech), Moscow 🇷🇺 *(June 2024)*
+> 🎓 **Master's Graduate** — Skolkovo Institute of Science and Technology (Skoltech) 🇷🇺 *(June 2024)*
 >
 > 🌍 Originally from **Turkmenistan** 🇹🇲
 >
@@ -33,6 +33,14 @@
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,git,github,arduino,solidity&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<br/>
 
 **Languages & Core**
 
@@ -61,21 +69,28 @@
 
 <div align="center">
 
+<!-- Streak Stats — hosted on demolab.com, very stable -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=mekan-hojayev&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-[![Mekan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mekan-hojayev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Awesome GitHub Stats — Azure hosted, reliable alternative -->
+[![Mekan's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mekan-hojayev?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+
+<br/>
+
+<!-- Top Languages — using cache_seconds=86400 for better reliability -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekan-hojayev&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mekan-hojayev&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Mekan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mekan-hojayev&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
