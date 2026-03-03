@@ -15,8 +15,10 @@
 >
 > 🎓 **Master's Graduate** — Skolkovo Institute of Science and Technology (Skoltech) 🇷🇺 *(June 2024)*
 >
-> 🌍 Originally from **Turkmenistan** 🇹🇲
+> 🌍 From **Turkmenistan** 🇹🇲
 >
+> Live in **Moscow**, **Russia** 🇷🇺
+> 
 > 🔬 Focused on **LegalTech** tasks for law firms — NLP, document analysis, AI pipelines
 >
 > 🌐 Portfolio & CV: [mekan-hojayev.github.io](https://mekan-hojayev.github.io)
