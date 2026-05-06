@@ -29,7 +29,6 @@
 
 - Working on **AI-powered LegalTech solutions** for law firms
 - Exploring **LLMs, RAG pipelines, and NLP for legal documents**
-- Interested in **Web3, Blockchain & Smart Contracts**
 - Reach me at: **mekanhojayev97@gmail.com**
 
 ---
