@@ -11,7 +11,7 @@
 
 ## About Me
 
-> **Data Science Developer** at a LegalTech company in **Skolkovo, Moscow**
+> **Machine Learning Engineer** at **TrackTrack, Skolkovo, Moscow**
 >
 > **Master's Graduate** — Skolkovo Institute of Science and Technology (Skoltech) 🇷🇺 *(June 2024)*
 >
@@ -19,7 +19,7 @@
 >
 > Live in **Moscow**, **Russia** 🇷🇺
 > 
-> Focused on **LegalTech** tasks for law firms — NLP, document analysis, AI pipelines
+> Focused on **LegalTech** tasks for law firms — NLP, document analysis, AI pipelines, CV
 >
 > Portfolio & CV: [mekan-hojayev.github.io](https://mekan-hojayev.github.io)
 
