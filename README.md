@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Mekan+%F0%9F%91%8B;Machine+Learning+Engineer;ML+%7C+NLP+%7C+LegalTech+Enthusiast;Skoltech+Master's+Graduate+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Mekan+%F0%9F%91%8B;Machine+Learning+Engineer;CV+%7C+NLP+%7C+LegalTech+Enthusiast;Skoltech+Master's+Graduate+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ1aG5yNHQ4N2t0NzgyN3ZiN2RheXB6cGd5NTBxOTN4MzJ6ZTVzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="180"/>
 
