@@ -13,11 +13,11 @@
 
 > **Machine Learning Engineer** at **TrackTrack, Skolkovo, Moscow**
 >
-> **Master's Graduate** — Skolkovo Institute of Science and Technology (Skoltech) 🇷🇺 *(June 2024)*
+> **Master's Graduate** — Skolkovo Institute of Science and Technology (Skoltech) *(June 2024)*
 >
-> From **Turkmenistan** 🇹🇲
+> From **Turkmenistan**
 >
-> Live in **Moscow**, **Russia** 🇷🇺
+> Live in **Moscow**, **Russia**
 > 
 > Focused on **LegalTech** tasks for law firms — NLP, document analysis, AI pipelines, CV
 >
