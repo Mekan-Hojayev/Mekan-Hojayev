@@ -37,7 +37,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,git,github,arduino,solidity&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,arduino,solidity&theme=dark)](https://skillicons.dev)
 
 </div>
 
